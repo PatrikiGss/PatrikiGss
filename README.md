@@ -1,6 +1,9 @@
-### Ola, me chamo patriki! bem vindo ao meu perfil do github.
-no momento fazendo graduação no instituto federal de santa catarina
-natural de Sao joaquim SC,mas atualmente resido em lages SC.
+## Sobre mim
+
+Olá! Sou estudante da quarta fase do curso de Ciência da Computação no Instituto Federal de Santa Catarina (IFSC). Durante o curso, desenvolvi uma base sólida em **Java**, e atualmente estou expandindo meus conhecimentos estudando **JavaScript** e **Python**, além de seus frameworks populares, **Vue.js** e **Django**.
+
+Aqui no meu GitHub, você encontrará projetos e experiências práticas que refletem meu aprendizado e progresso nessas tecnologias.
+
 ## Contatos:
 <div>
 
