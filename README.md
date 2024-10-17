@@ -6,7 +6,7 @@ Aqui no meu GitHub, você encontrará projetos e experiências práticas que ref
 
 ## Contatos:
 <div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrikiGss)](https://github.com/PatrikiGss/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrikiGss&layout=compact)
 
 <a href="https://www.instagram.com/patrikigoss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
