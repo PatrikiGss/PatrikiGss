@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Olá! Sou estudante da quarta fase do curso de Ciência da Computação no Instituto Federal de Santa Catarina (IFSC). Durante o curso, desenvolvi uma base sólida em **Java** e, atualmente, estou expandindo meus conhecimentos estudando **JavaScript** e **Python**, além de seus frameworks populares, **Vue.js** e **Django**.
+Olá! Sou estudante da quarta fase do curso de Ciência da Computação no Instituto Federal de Santa Catarina (IFSC). Durante o curso, desenvolvi uma base sólida em **Java**. Atualmente, estou expandindo meus conhecimentos estudando **JavaScript** e **Python**, além de seus frameworks populares, **Vue.js** e **Django**.
 
 Aqui no meu GitHub, você encontrará projetos e experiências práticas que refletem meu aprendizado e progresso nessas tecnologias.
 
