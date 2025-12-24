@@ -6,8 +6,8 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 
 Aqui no meu GitHub, você encontrará projetos e experiências práticas que refletem meu aprendizado e progresso.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrikiGss&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrikiGss&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrikiGss&show_icons=true&theme=dracula&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrikiGss&layout=compact&theme=dracula&cache_seconds=1800)
 
 ## Contatos
 
