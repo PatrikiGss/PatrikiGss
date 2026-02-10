@@ -1,13 +1,27 @@
 ## Sobre mim
 
-Olá! Sou estudante da setima fase do curso de Ciência da Computação no Instituto Federal de Santa Catarina (IFSC).
+Olá! Sou estudante da sétima fase do curso de Ciência da Computação no Instituto Federal de Santa Catarina (IFSC).
 Durante o curso, desenvolvi uma base sólida em **Java**.
 Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, além de **Vue.js** e **Django**.
 
 Aqui no meu GitHub, você encontrará projetos e experiências práticas que refletem meu aprendizado e progresso.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrikiGss&show_icons=true&theme=dracula&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrikiGss&layout=compact&theme=dracula&cache_seconds=1800)
+### Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrikigss&show_icons=true&theme=dracula&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrikigss&layout=compact&theme=dracula&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=patrikigss&theme=dracula&hide_border=true)
+
 
 ## Contatos
 
@@ -17,3 +31,7 @@ Aqui no meu GitHub, você encontrará projetos e experiências práticas que ref
 <a href="mailto:patriki7771@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=patrikigss&color=blueviolet&style=flat)
