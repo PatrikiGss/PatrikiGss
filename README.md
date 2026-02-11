@@ -21,7 +21,7 @@ Aqui no meu GitHub, você encontrará projetos e experiências práticas que ref
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrikigss&theme=dracula)
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patrikigss&theme=dracula)
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patrikigss&theme=dracula)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=patrikigss&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 
 
 ## Contatos
@@ -33,6 +33,3 @@ Aqui no meu GitHub, você encontrará projetos e experiências práticas que ref
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=patrikigss&color=blueviolet&style=flat)
