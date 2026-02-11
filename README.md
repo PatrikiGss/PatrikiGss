@@ -16,7 +16,7 @@ Aqui no meu GitHub, você encontrará projetos e experiências práticas que ref
 
 ### Estatísticas
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=patrikigss&theme=dracula&hide_border=true)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patrikigss&theme=dracula)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=patrikigss&theme=dracula&hide_border=true)
 
