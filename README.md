@@ -6,15 +6,12 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 
 Aqui no meu GitHub, você encontrará projetos e experiências práticas que refletem meu aprendizado e progresso.
 
-### Backend
+## linguagens e ferramentas
 ![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
-
-### Frontend
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Vue](https://skillicons.dev/icons?i=vue)
-
-### Ferramentas
 ![Git](https://skillicons.dev/icons?i=git)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
