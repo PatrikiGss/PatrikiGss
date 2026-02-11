@@ -20,9 +20,6 @@ Aqui no meu GitHub, você encontrará projetos e experiências práticas que ref
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patrikigss&theme=dracula)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patrikigss&theme=dracula)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=patrikigss&theme=dracula&no-frame=true&row=1)
-
-
 ## Contatos
 
 <a href="https://www.instagram.com/patrikigoss/" target="_blank">
