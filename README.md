@@ -21,7 +21,7 @@ Aqui no meu GitHub, você encontrará projetos e experiências práticas que ref
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrikigss&theme=dracula)
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patrikigss&theme=dracula)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=patrikigss&repo=nome-do-repo&theme=dracula&hide_border=true)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patrikigss&theme=dracula)
 
 
 ## Contatos
