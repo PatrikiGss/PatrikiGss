@@ -6,13 +6,19 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 
 Aqui no meu GitHub, você encontrará projetos e experiências práticas que refletem meu aprendizado e progresso.
 
-### Tecnologias
+### Backend
+![Java](https://skillicons.dev/icons?i=java)
+![Django](https://skillicons.dev/icons?i=django)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### Frontend
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Vue](https://skillicons.dev/icons?i=vue)
+
+### Ferramentas
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+
 
 ### Estatísticas
 
