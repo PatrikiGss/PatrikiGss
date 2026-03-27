@@ -4,8 +4,6 @@ Olá! Sou estudante da sétima fase do curso de Ciência da Computação no Inst
 Durante o curso, desenvolvi uma base sólida em **Java**.
 Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, além de **Vue.js** e **Django**.
 
-Aqui no meu GitHub, você encontrará projetos e experiências práticas que refletem meu aprendizado e progresso.
-
 ## linguagens e ferramentas
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
