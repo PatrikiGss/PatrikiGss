@@ -13,6 +13,7 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 ![Git](https://skillicons.dev/icons?i=git)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 
 ### Estatísticas
