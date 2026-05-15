@@ -24,7 +24,7 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 
 ## Contatos
 
-<a href="https://www.instagram.com/patrikigoss/" target="_blank">
+<a href="https://www.instagram.com/patrikigss/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
