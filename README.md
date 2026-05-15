@@ -7,13 +7,21 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 ## Linguagens e ferramentas
 
 ![Java](https://skillicons.dev/icons?i=java)
+
 ![Python](https://skillicons.dev/icons?i=python)
+
 ![Django](https://skillicons.dev/icons?i=django)
+
 ![JavaScript](https://skillicons.dev/icons?i=js)
+
 ![Vue](https://skillicons.dev/icons?i=vue)
+
 ![Git](https://skillicons.dev/icons?i=git)
+
 ![Docker](https://skillicons.dev/icons?i=docker)
+
 ![Postgres](https://skillicons.dev/icons?i=postgres)
+
 ![Postman](https://skillicons.dev/icons?i=postman)
 
 ### Estatísticas
