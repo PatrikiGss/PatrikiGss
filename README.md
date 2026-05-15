@@ -14,6 +14,8 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Postman](https://skillicons.dev/icons?i=postman)
+![SQLServer](https://skillicons.dev/icons?i=SQLServer)
+![WindowsServer](https://skillicons.dev/icons?i=windowsserver)
 
 
 ### Estatísticas
