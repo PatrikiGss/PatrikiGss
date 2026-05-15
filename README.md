@@ -4,7 +4,8 @@ Olá! Sou estudante da sétima fase do curso de Ciência da Computação no Inst
 Durante o curso, desenvolvi uma base sólida em **Java**.
 Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, além de **Vue.js** e **Django**.
 
-## linguagens e ferramentas
+## Linguagens e ferramentas
+
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
@@ -14,24 +15,23 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![SQLServer](https://skillicons.dev/icons?i=SQLServer)
-![WindowsServer](https://skillicons.dev/icons?i=windowsserver)
+![SQL Server](https://skillicons.dev/icons?i=sqlite)
+![Windows Server](https://skillicons.dev/icons?i=windows)
 
+> Observação cruel da realidade: o Skill Icons não possui ícone oficial para SQL Server nem Windows Server. A humanidade chegou em IA generativa antes de padronizar ícones decentes. Então usei aproximações visuais.
 
 ### Estatísticas
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrikigss&theme=dracula)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patrikigss&theme=dracula)
-![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patrikigss&theme=dracula&utcOffset=-3)
-
-
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrikigss\&theme=dracula)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patrikigss\&theme=dracula)
+![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patrikigss\&theme=dracula\&utcOffset=-3)
 
 ## Contatos
 
 <a href="https://www.instagram.com/patrikigoss/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
 <a href="mailto:patriki7771@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
