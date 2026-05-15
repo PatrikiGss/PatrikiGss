@@ -15,10 +15,6 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![SQL Server](https://skillicons.dev/icons?i=sqlite)
-![Windows Server](https://skillicons.dev/icons?i=windows)
-
-> Observação cruel da realidade: o Skill Icons não possui ícone oficial para SQL Server nem Windows Server. A humanidade chegou em IA generativa antes de padronizar ícones decentes. Então usei aproximações visuais.
 
 ### Estatísticas
 
