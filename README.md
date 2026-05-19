@@ -22,16 +22,6 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 
 </div>
 
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrikiGss&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrikiGss&layout=compact&theme=tokyonight)
-
-</div>
-
 ## Contatos
 
 <a href="https://www.instagram.com/patrikigss/" target="_blank">
