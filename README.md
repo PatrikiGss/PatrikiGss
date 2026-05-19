@@ -16,12 +16,15 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
-### Estatísticas
+<h3>📊 Estatísticas</h3>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrikigss\&theme=dracula)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patrikigss\&theme=dracula)
-![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patrikigss\&theme=dracula\&utcOffset=-3)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrikigss&theme=dracula" />
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patrikigss&theme=dracula" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patrikigss&theme=dracula&utcOffset=-3" />
+</p>
 ## Contatos
 
 <a href="https://www.instagram.com/patrikigss/" target="_blank">
