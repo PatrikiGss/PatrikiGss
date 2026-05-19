@@ -6,14 +6,26 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 
 ## Linguagens e ferramentas
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrikiGss&theme=tokyo-night&hide_border=false"/>
+</div>
+
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PatrikiGss&theme=tokyonight&hide_border=false"/>
+  <img src="https://raw.githubusercontent.com/PatrikiGss/PatrikiGss/main/github-metrics.svg"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrikiGss&theme=tokyo-night&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com/?user=PatrikiGss&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrikiGss&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=PatrikiGss&theme=tokyonight&hide_border=false"/>
 </div>
 
 <div align="center">
