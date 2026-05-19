@@ -9,15 +9,16 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PatrikiGss&theme=tokyonight&no-frame=false&column=4&margin-w=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrikiGss&theme=tokyo-night&hide_border=false"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatrikiGss&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatrikiGss&theme=tokyonight"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=PatrikiGss&theme=tokyonight&hide_border=false"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrikiGss&theme=tokyo-night&hide_border=false&area=true"/>
 </div>
 
 <div align="center">
