@@ -9,17 +9,16 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 ## 📊 Estatísticas
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrikiGss&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrikiGss&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrikiGss&show_icons=true&theme=tokyonight&cache_seconds=1800&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrikiGss&layout=compact&theme=tokyonight&cache_seconds=1800&langs_count=8"/>
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=PatrikiGss&theme=tokyonight&hide_border=false"/>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrikiGss&theme=tokyonight"/>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrikiGss&theme=tokyonight"/>
 </div>
 
 ## Contatos
@@ -27,7 +26,6 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 <a href="https://www.instagram.com/patrikigss/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
 <a href="mailto:patriki7771@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
