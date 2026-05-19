@@ -9,8 +9,11 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrikiGss&show_icons=true&theme=tokyonight&cache_seconds=1800&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrikiGss&layout=compact&theme=tokyonight&cache_seconds=1800&langs_count=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PatrikiGss&theme=tokyonight&no-frame=false&column=4&margin-w=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrikiGss&theme=tokyo-night&hide_border=false"/>
 </div>
 
 <div align="center">
