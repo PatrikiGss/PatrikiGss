@@ -20,10 +20,15 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrikigss&theme=dracula" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrikiGss&theme=github_dark" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patrikigss&theme=dracula" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patrikigss&theme=dracula&utcOffset=-3" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatrikiGss&theme=github_dark" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatrikiGss&theme=github_dark" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatrikiGss&theme=github_dark" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatrikiGss&theme=github_dark&utcOffset=-3" width="49%" />
 
 </div>
 
