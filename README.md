@@ -20,15 +20,9 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrikiGss&theme=github_dark" width="100%" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrikiGss&show_icons=true&theme=tokyonight)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatrikiGss&theme=github_dark" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatrikiGss&theme=github_dark" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatrikiGss&theme=github_dark" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatrikiGss&theme=github_dark&utcOffset=-3" width="49%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrikiGss&layout=compact&theme=tokyonight)
 
 </div>
 
