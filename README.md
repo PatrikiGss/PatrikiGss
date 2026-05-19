@@ -6,15 +6,21 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 
 ## Linguagens e ferramentas
 
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Vue](https://skillicons.dev/icons?i=vue)
-![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![Postman](https://skillicons.dev/icons?i=postman)
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrikiGss&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrikiGss&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrikiGss&theme=tokyonight"/>
+
+</div>
 
 ## 📊 Estatísticas
 
