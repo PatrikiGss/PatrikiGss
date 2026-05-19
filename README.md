@@ -9,16 +9,18 @@ Atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Python**, 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatrikiGss&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatrikiGss&theme=tokyonight"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-by-language?username=PatrikiGss&theme=tokyonight"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatrikiGss&theme=tokyonight"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatrikiGss&theme=tokyonight"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatrikiGss&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrikiGss&theme=tokyo-night&hide_border=false"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=PatrikiGss&theme=tokyonight&hide_border=false"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrikiGss&theme=tokyo-night&hide_border=false&area=true"/>
 </div>
 
 <div align="center">
