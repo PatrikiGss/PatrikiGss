@@ -13,7 +13,7 @@ Sou estudante da sétima fase do curso de Ciência da Computação no Instituto 
 ## Linguagens e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,vue,django,html,css,git,github,vscode,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,vue,django,html,css,git,github,vscode,postgres,postman" />
 </div>
 
 ## Atividade
