@@ -25,11 +25,6 @@ Sou estudante da sétima fase do curso de Ciência da Computação no Instituto 
 ## Estatísticas
 
 <div align="center">
-  <img height="195" src="https://streak-stats.demolab.com/?user=PatrikiGss&theme=tokyonight&hide_border=false" />
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatrikiGss&theme=tokyonight" />
-</div>
-
-<div align="center">
   <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatrikiGss&theme=tokyonight" />
   <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatrikiGss&theme=tokyonight&utcOffset=-3" />
 </div>
