@@ -28,7 +28,7 @@ Tenho trabalhado principalmente com **Python, Django, JavaScript, Vue.js e React
 
 **[ACAPRA](https://github.com/PatrikiGss/Projeto_Acapra)** — aplicação feita para a instituição ACAPRA de São Joaquim, na disciplina de Atividade de Extensão II.
 
-**[Romaneio](https://github.com/PatrikiGss/Site_ramaneio_Kauan)** — aplicação sob medida para romaneio, desenvolvida conforme as necessidades do cliente.
+**[Romaneio](https://github.com/PatrikiGss/Site_romaneio_Kauan)** — aplicação sob medida para romaneio, desenvolvida conforme as necessidades do cliente.
 
 ---
 
