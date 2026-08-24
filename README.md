@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  Desenvolvimento de aplicações web, APIs REST e sistemas completos.
+  Desenvolvimento de aplicações web, APIs REST e Analise de dados.
 </p>
----
 
 ## Sobre mim
 
