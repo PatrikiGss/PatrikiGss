@@ -7,16 +7,6 @@
 <p align="center">
   Desenvolvimento de aplicações web, APIs REST e sistemas completos.
 </p>
-
-<p align="center">
-  <a href="https://github.com/PatrikiGss">
-    <img src="https://img.shields.io/github/followers/PatrikiGss?label=Seguidores&style=flat" />
-  </a>
-  <a href="https://github.com/PatrikiGss?tab=repositories">
-    <img src="https://img.shields.io/github/stars/PatrikiGss?affiliations=OWNER&style=flat&label=Estrelas" />
-  </a>
-</p>
-
 ---
 
 ## Sobre mim
