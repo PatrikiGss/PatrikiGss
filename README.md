@@ -81,7 +81,4 @@ Meu foco está em transformar problemas reais em sistemas funcionais, buscando m
   <a href="https://www.instagram.com/patrikigss/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/PatrikiGss">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
