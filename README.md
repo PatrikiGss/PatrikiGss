@@ -51,19 +51,6 @@ Meu foco está em transformar problemas reais em sistemas funcionais, buscando m
 
 ---
 
-## Projetos em destaque
-
-Alguns dos projetos que melhor representam meu trabalho:
-
-| Projeto                                                                              | Descrição                                                                                                              |
-| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| 🌱 [**Gestão Pecuária**](https://github.com/PatrikiGss/Projeto-gestao-pecuaria)      | Sistema de análise de solo e geração de recomendações agronômicas, com Django, Vue, PostgreSQL e testes automatizados. |
-| 🖨️ [**Gestão de Impressoras 3D**](https://github.com/PatrikiGss/gestao_Impressao3D) | Sistema para gerenciamento das solicitações de impressão 3D do IFSC — Campus Lages.                                    |
-| 🏢 [**Projeto Acapra**](https://github.com/PatrikiGss/Projeto_Acapra)                | Sistema institucional com API Django e frontend React.                                                                 |
-| 🍎 [**Romaneio de Cargas**](https://github.com/PatrikiGss/Site_ramaneio_Kauan)       | Sistema SaaS para registro e controle de carregamentos de maçã.                                                        |
-
----
-
 ## Atividade
 
 <p align="center">
