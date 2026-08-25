@@ -36,7 +36,11 @@ Tenho trabalhado principalmente com **Python, Django, JavaScript, Vue.js e React
 
 ### Backend
 
-<img align="right" width="40%" src="assets/tech.gif" alt="Ambiente de trabalho" />
+<table>
+<tr>
+<td width="300"><img src="assets/tech.gif" width="100%" /></td>
+</tr>
+</table>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,flask,java,postgres" />
