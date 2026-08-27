@@ -58,14 +58,6 @@ Tenho trabalhado principalmente com **Python, Django, JavaScript, Vue.js e React
 
 ---
 
-## Atividade
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PatrikiGss&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
 ## Estatísticas
 
 <p align="center">
