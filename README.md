@@ -18,7 +18,6 @@ Sou estudante de **Ciência da Computação no IFSC**, com experiência no desen
 
 Tenho trabalhado principalmente com **Python, Django, JavaScript, Vue.js e React**, além de bancos de dados relacionais, autenticação, testes automatizados, CI/CD e deploy de aplicações.
 
----
 
 ## Projetos
 
@@ -30,7 +29,6 @@ Tenho trabalhado principalmente com **Python, Django, JavaScript, Vue.js e React
 
 **[Romaneio](https://github.com/PatrikiGss/Site_romaneio_Kauan)** — aplicação sob medida para romaneio, desenvolvida conforme as necessidades do cliente.
 
----
 
 ## Tecnologias
 
@@ -56,7 +54,6 @@ Tenho trabalhado principalmente com **Python, Django, JavaScript, Vue.js e React
 
 <br clear="both" />
 
----
 
 ## Estatísticas
 
@@ -69,7 +66,6 @@ Tenho trabalhado principalmente com **Python, Django, JavaScript, Vue.js e React
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrikiGss&theme=tokyonight" />
 </p>
 
----
 
 ## Contato
 
