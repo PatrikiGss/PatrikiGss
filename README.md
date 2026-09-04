@@ -63,6 +63,12 @@ Tenho trabalhado principalmente com **Python, Django, JavaScript, Vue.js e React
 </p>
 
 <p align="center">
+  <a href="https://wakatime.com/@7b02a6a3-a33e-4caf-b7ac-c71b4c2ebea5">
+    <img width="95%" src="https://github-stats-extended.vercel.app/api/wakatime?username=7b02a6a3-a33e-4caf-b7ac-c71b4c2ebea5&langs_count=6&theme=tokyonight" alt="WakaTime Stats" />
+  </a>
+</p>
+
+<p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrikiGss&theme=tokyonight" />
 </p>
 
