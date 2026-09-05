@@ -1,7 +1,7 @@
 <h1 align="center">Patriki de Oliveira Góss</h1>
 
 <p align="center">
-  <strong>Estudante de Ciência da Computação no IFSC</strong>
+  <strong> Ciência da Computação - IFSC Câmpus Lages</strong>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Ciência da Computação no IFSC**, com experiência no desenvolvimento de aplicações web e APIs.
+Sou desenvolvedor python, com experiência no desenvolvimento de aplicações web e APIs.
 
 Tenho trabalhado principalmente com **Python, Django, JavaScript, Vue.js e React**, além de bancos de dados relacionais, autenticação, testes automatizados, CI/CD e deploy de aplicações.
 
