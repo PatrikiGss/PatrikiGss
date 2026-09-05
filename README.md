@@ -58,13 +58,9 @@ Tenho trabalhado principalmente com **Python, Django, JavaScript, Vue.js e React
 ## Estatísticas
 
 <p align="center">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatrikiGss&theme=tokyonight" alt="Estatísticas gerais" />
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatrikiGss&theme=tokyonight&utcOffset=-3" alt="Horários mais produtivos" />
-</p>
-
-<p align="center">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatrikiGss&theme=tokyonight" alt="Linguagens por repositório" />
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatrikiGss&theme=tokyonight" alt="Linguagens por commit" />
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatrikiGss&theme=tokyonight" alt="Estatísticas gerais" />
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatrikiGss&theme=tokyonight&utcOffset=-3" alt="Horários mais produtivos" />
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatrikiGss&theme=tokyonight" alt="Linguagens por commit" />
 </p>
 
 <p align="center">
