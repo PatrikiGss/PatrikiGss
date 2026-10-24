@@ -21,7 +21,7 @@ Tenho trabalhado principalmente com **Python, Django, JavaScript, Vue.js e React
 
 ## Projetos
 
-**[Gestão de Impressão 3D](https://github.com/PatrikiGss/gestao_Impressao3D)** — sistema de solicitação e acompanhamento de impressões para o projeto de extensão de mapeamento tátil do IFSC Campus Lages. Django, PostgreSQL, CI/CD e deploy em produção.
+**[Gestão de Impressão 3D](https://github.com/PatrikiGss/gestao_Impressao3D)** — sistema de solicitação e acompanhamento de impressões para o projeto de extensão de mapeamento tátil do IFSC Campus Lages. Django, PostgreSQL.
 
 **[Gestão Pecuária](https://github.com/PatrikiGss/Projeto-gestao-pecuaria)** — software desenvolvido para o projeto de pesquisa de Gestão Pecuária do IFSC Campus Lages.
 
