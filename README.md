@@ -16,7 +16,7 @@
 
 Sou desenvolvedor python, com experiência no desenvolvimento de aplicações web e APIs.
 
-Tenho trabalhado principalmente com **Python, Django, JavaScript, Vue.js e React**, além de bancos de dados relacionais, autenticação, testes automatizados, CI/CD e Docker.
+Tenho trabalhado principalmente com **Python, Django, JavaScript, Vue.js e React**, além de bancos de dados relacionais, testes automatizados, CI/CD e Docker.
 
 
 ## Projetos
